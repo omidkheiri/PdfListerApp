@@ -1,3 +1,6 @@
-You can use this siple application to create
-a txt file that contains encoded data of all pdf file that located in
+
+#Description
+
+### You can use this simple application to create<br/>
+a txt file that contains encoded data of all pdf files that are located in<br/>
 **"c:\pdf"**
